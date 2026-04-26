@@ -24,11 +24,11 @@ The project’s architecture is grounded in contemporary research regarding clie
 ## The Team:
 This project was developed by:
 
-[Nidhi Varma Penumatcha](https://github.com/N-06)	| (Team Lead & AI Development)
+[Nidhi Varma Penumatcha](https://github.com/N-06)	| (Team Lead & AI&ML Development)
 Designed the NLP matching engine and TF-IDF logic for automated skill-gap analysis.
 
 [Ozas Dixit](https://github.com/OzasDixit)		| (Full-Stack Development)
 Architected the privacy-first client-side platform and integrated the core AI modules.
 
 [G. Hanish](https://github.com/24B81A66E5)		| (Data Analysis & UI/UX)
-Developed interactive trend visualizations and salary benchmarking dashboards using Recharts
+Developed interactive trend visualizations and salary benchmarking dashboards using Recharts.
