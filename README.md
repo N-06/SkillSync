@@ -1,6 +1,6 @@
 #SkillSync AI: Automated Career Intelligence & Job Market Navigator
 
-[**Live Demo**](https://skill-sync-five.vercel.app) | [**Report Bug**](https://github.com/N-06/SkillSync/issues)
+[**Live Demo**](https://skill-sync-alpha-orpin.vercel.app) | [**Report Bug**](https://github.com/N-06/SkillSync/issues)
 
 SkillSync AI is an NLP-driven platform designed to bridge the gap between education and employment. By leveraging TF-IDF and Cosine Similarity, the platform analyzes user profiles against industry requirements to provide real-time skill-gap analysis and personalized career roadmaps.
 
@@ -24,7 +24,7 @@ The project’s architecture is grounded in contemporary research regarding clie
 ## The Team:
 This project was developed by:
 
-[Nidhi Varma Penumatcha](https://github.com/N-06)	| (Team Lead & AI&ML Development)
+[Nidhi Varma Penumatcha](https://github.com/N-06)	| (Team Lead & AI/ML Development)
 Designed the NLP matching engine and TF-IDF logic for automated skill-gap analysis.
 
 [Ozas Dixit](https://github.com/OzasDixit)		| (Full-Stack Development)
