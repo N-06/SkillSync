@@ -1,5 +1,7 @@
 #SkillSync AI: Automated Career Intelligence & Job Market Navigator
 
+[**Live Demo**](https://skill-sync-five.vercel.app) | [**Report Bug**](https://github.com/N-06/SkillSync/issues)
+
 SkillSync AI is an NLP-driven platform designed to bridge the gap between education and employment. By leveraging TF-IDF and Cosine Similarity, the platform analyzes user profiles against industry requirements to provide real-time skill-gap analysis and personalized career roadmaps.
 
 ## Key Features:
